@@ -20,7 +20,7 @@ This is a simple text-based Rock, Paper, Scissors game implemented in Python. Yo
 
 2. Open a terminal or command prompt and navigate to the project directory.
 
-3. Run the game by executing the following command: python rock_paper_scissors.py
+3. Run the game by executing the following command: python rock_paper_scissors_Game.py
  
 4. Enter the number of games you want to play when prompted.
 
